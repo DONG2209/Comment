@@ -1,0 +1,28 @@
+﻿Positive,Negative,Neutral,type,error_type
+tuyệt ,lag ,phim,phim,bug
+hay,chó,film,phim,sentiment
+cute,đụ mẹ,lịch chiếu,phim,sentiment
+kute,đm,Sao,phim,sentiment
+yêu,con me,sao ,phim,sentiment
+dễ thương,con mẹ,chờ,phim,sentiment
+Hay,an cức,Chờ,phim,sentiment
+Yêu,xàm ,,phim,sentiment
+Hóng,cc,,phim,sentiment
+thích,cmn,,phim,sentiment
+Thích,mẹ,,phim,sentiment
+Cưng,éo,,phim,sentiment
+hóng,cl,,phim,sentiment
+win,đéo,,thể thao,sentiment
+vô địch,ngu,,thể thao,sentiment
+đù má,chán,trọng tài,thể thao,sentiment
+love,chết,trọng tài,thể thao,sentiment
+:)),ko xem dc,vn,thể thao,bug
+Hay,Ko xem dc,philipin,thể thao,bug
+cố lên,không phát,malay,thể thao,bug
+,chập chờn,,,bug
+,chap chon,,,bug
+,mạng,,,bug
+,chán thế,,,sentiment
+,chan the,,,sentiment
+,vl,,,sentiment
+,nhạt nhẽo,,,sentiment
